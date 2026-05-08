@@ -28,7 +28,7 @@ pip install numpy matplotlib scikit-learn
 .
 ├── 2023104131_张嫦炳_ML_CV_Assignment.py   # 主程序代码
 ├── README.md                  # 本文件
-└── 2023104131_张嫦炳_ML_CV_Assignment.word   # 实验报告
+└── 2023104131_张嫦炳_ML_CV_Assignment.doc   # 实验报告
 ```
 
 ## 运行方法
